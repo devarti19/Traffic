@@ -1,10 +1,1 @@
 gunicorn==19.9.0
-http.cookies
-http.server
-urllib
-base64
-sqlite3
-hashlib
-binascii
-datetime
-random
